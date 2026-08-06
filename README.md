@@ -155,4 +155,4 @@ The generated resonance data is synthetic and intended for software development,
 **Aman Kumar**
 
 B.S. in Electronic Systems  
-Indian Institute of Technology Madras
+Indian Institute of Technology Madras, India 
